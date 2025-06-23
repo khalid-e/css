@@ -1,0 +1,23 @@
+/* p {
+    color: blue;
+}
+h1 {
+    color: green;
+}
+
+#the_first_p {
+    color: orange;
+}
+
+#the_second_p {
+    color: crimson;
+}
+
+.all_other_p {
+    color: goldenrod;
+} */
+
+
+h1 {
+    color: goldenrod !important;
+}
